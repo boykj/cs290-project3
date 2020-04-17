@@ -16,7 +16,7 @@
         <li><a href="/categories">Categories</a></li>
         <li><a href="/manufacturers.html">Manufacturers</a></li>
       </ul>
-      <a id="lnk_add" href="/new.php">+ Add a Bike</a>
+      <a id="lnk_add" href="/motorcycles/new.php">+ Add a Bike</a>
     </nav>
   </header>
   <main>
