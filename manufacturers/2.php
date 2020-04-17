@@ -16,7 +16,7 @@
         <tr>
           <td><a href="motorcycles/2.php"><img src="/assets/images/motorcycle_2_thumb.jpg" alt="2017 Honda CB 1100" class="thumbnail"></a></td>
           <td>2017</td>
-          <td><a href="/manufacturer_2.html">Honda</a></td>
+          <td><a href="/manufacturers/2.php">Honda</a></td>
           <td><a href="motorcycles/2.php">CB 1100</a></td>
           <td><a href="categories/1.php">Naked</a></td>
           <td>1140cc, 89hp</td>
